@@ -1,0 +1,8 @@
+C:\Users\robertg\Desktop\code\HOMEWORK\codesnippet\bin\Debug\netcoreapp1.1\codesnippet.deps.json
+C:\Users\robertg\Desktop\code\HOMEWORK\codesnippet\bin\Debug\netcoreapp1.1\codesnippet.runtimeconfig.json
+C:\Users\robertg\Desktop\code\HOMEWORK\codesnippet\bin\Debug\netcoreapp1.1\codesnippet.runtimeconfig.dev.json
+C:\Users\robertg\Desktop\code\HOMEWORK\codesnippet\obj\Debug\netcoreapp1.1\codesnippet.AssemblyInfo.cs
+C:\Users\robertg\Desktop\code\HOMEWORK\codesnippet\bin\Debug\netcoreapp1.1\codesnippet.dll
+C:\Users\robertg\Desktop\code\HOMEWORK\codesnippet\bin\Debug\netcoreapp1.1\codesnippet.pdb
+C:\Users\robertg\Desktop\code\HOMEWORK\codesnippet\obj\Debug\netcoreapp1.1\codesnippet.dll
+C:\Users\robertg\Desktop\code\HOMEWORK\codesnippet\obj\Debug\netcoreapp1.1\codesnippet.pdb
